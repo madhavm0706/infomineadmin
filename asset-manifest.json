@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/infomineadmin/static/css/main.88a31b4f.chunk.css",
-    "main.js": "/infomineadmin/static/js/main.2fa268b7.chunk.js",
-    "main.js.map": "/infomineadmin/static/js/main.2fa268b7.chunk.js.map",
+    "main.js": "/infomineadmin/static/js/main.9e33cc25.chunk.js",
+    "main.js.map": "/infomineadmin/static/js/main.9e33cc25.chunk.js.map",
     "runtime-main.js": "/infomineadmin/static/js/runtime-main.40d7a19c.js",
     "runtime-main.js.map": "/infomineadmin/static/js/runtime-main.40d7a19c.js.map",
-    "static/js/2.495bf8c0.chunk.js": "/infomineadmin/static/js/2.495bf8c0.chunk.js",
-    "static/js/2.495bf8c0.chunk.js.map": "/infomineadmin/static/js/2.495bf8c0.chunk.js.map",
+    "static/js/2.6750bde5.chunk.js": "/infomineadmin/static/js/2.6750bde5.chunk.js",
+    "static/js/2.6750bde5.chunk.js.map": "/infomineadmin/static/js/2.6750bde5.chunk.js.map",
     "index.html": "/infomineadmin/index.html",
-    "precache-manifest.eed22f1fdd99f6de5dd89ccc5ea2d0f8.js": "/infomineadmin/precache-manifest.eed22f1fdd99f6de5dd89ccc5ea2d0f8.js",
+    "precache-manifest.e9c0b4d106ea3f1326d8f9c7f51606b7.js": "/infomineadmin/precache-manifest.e9c0b4d106ea3f1326d8f9c7f51606b7.js",
     "service-worker.js": "/infomineadmin/service-worker.js",
     "static/css/main.88a31b4f.chunk.css.map": "/infomineadmin/static/css/main.88a31b4f.chunk.css.map",
-    "static/js/2.495bf8c0.chunk.js.LICENSE.txt": "/infomineadmin/static/js/2.495bf8c0.chunk.js.LICENSE.txt",
+    "static/js/2.6750bde5.chunk.js.LICENSE.txt": "/infomineadmin/static/js/2.6750bde5.chunk.js.LICENSE.txt",
     "static/media/infomine.jpg": "/infomineadmin/static/media/infomine.f9840099.jpg",
     "static/media/loading-arrow.gif": "/infomineadmin/static/media/loading-arrow.e9ea7394.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.40d7a19c.js",
-    "static/js/2.495bf8c0.chunk.js",
+    "static/js/2.6750bde5.chunk.js",
     "static/css/main.88a31b4f.chunk.css",
-    "static/js/main.2fa268b7.chunk.js"
+    "static/js/main.9e33cc25.chunk.js"
   ]
 }
