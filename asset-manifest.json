@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/infomineadmin/static/css/main.88a31b4f.chunk.css",
-    "main.js": "/infomineadmin/static/js/main.9e33cc25.chunk.js",
-    "main.js.map": "/infomineadmin/static/js/main.9e33cc25.chunk.js.map",
+    "main.js": "/infomineadmin/static/js/main.28eb9045.chunk.js",
+    "main.js.map": "/infomineadmin/static/js/main.28eb9045.chunk.js.map",
     "runtime-main.js": "/infomineadmin/static/js/runtime-main.40d7a19c.js",
     "runtime-main.js.map": "/infomineadmin/static/js/runtime-main.40d7a19c.js.map",
     "static/js/2.6750bde5.chunk.js": "/infomineadmin/static/js/2.6750bde5.chunk.js",
     "static/js/2.6750bde5.chunk.js.map": "/infomineadmin/static/js/2.6750bde5.chunk.js.map",
     "index.html": "/infomineadmin/index.html",
-    "precache-manifest.e9c0b4d106ea3f1326d8f9c7f51606b7.js": "/infomineadmin/precache-manifest.e9c0b4d106ea3f1326d8f9c7f51606b7.js",
+    "precache-manifest.fcf7dd6ffa4380dbc0dd518ac2bbe58f.js": "/infomineadmin/precache-manifest.fcf7dd6ffa4380dbc0dd518ac2bbe58f.js",
     "service-worker.js": "/infomineadmin/service-worker.js",
     "static/css/main.88a31b4f.chunk.css.map": "/infomineadmin/static/css/main.88a31b4f.chunk.css.map",
     "static/js/2.6750bde5.chunk.js.LICENSE.txt": "/infomineadmin/static/js/2.6750bde5.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.40d7a19c.js",
     "static/js/2.6750bde5.chunk.js",
     "static/css/main.88a31b4f.chunk.css",
-    "static/js/main.9e33cc25.chunk.js"
+    "static/js/main.28eb9045.chunk.js"
   ]
 }
