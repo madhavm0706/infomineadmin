@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/infomineadmin/static/css/main.88a31b4f.chunk.css",
-    "main.js": "/infomineadmin/static/js/main.339b0470.chunk.js",
-    "main.js.map": "/infomineadmin/static/js/main.339b0470.chunk.js.map",
+    "main.js": "/infomineadmin/static/js/main.43ed9ba1.chunk.js",
+    "main.js.map": "/infomineadmin/static/js/main.43ed9ba1.chunk.js.map",
     "runtime-main.js": "/infomineadmin/static/js/runtime-main.40d7a19c.js",
     "runtime-main.js.map": "/infomineadmin/static/js/runtime-main.40d7a19c.js.map",
-    "static/js/2.6750bde5.chunk.js": "/infomineadmin/static/js/2.6750bde5.chunk.js",
-    "static/js/2.6750bde5.chunk.js.map": "/infomineadmin/static/js/2.6750bde5.chunk.js.map",
+    "static/js/2.b219501a.chunk.js": "/infomineadmin/static/js/2.b219501a.chunk.js",
+    "static/js/2.b219501a.chunk.js.map": "/infomineadmin/static/js/2.b219501a.chunk.js.map",
     "index.html": "/infomineadmin/index.html",
-    "precache-manifest.0949818e8369aba894f29a9b5e83379e.js": "/infomineadmin/precache-manifest.0949818e8369aba894f29a9b5e83379e.js",
+    "precache-manifest.a7a9cf8fd4987d8b35f81a1a90cd1002.js": "/infomineadmin/precache-manifest.a7a9cf8fd4987d8b35f81a1a90cd1002.js",
     "service-worker.js": "/infomineadmin/service-worker.js",
     "static/css/main.88a31b4f.chunk.css.map": "/infomineadmin/static/css/main.88a31b4f.chunk.css.map",
-    "static/js/2.6750bde5.chunk.js.LICENSE.txt": "/infomineadmin/static/js/2.6750bde5.chunk.js.LICENSE.txt",
+    "static/js/2.b219501a.chunk.js.LICENSE.txt": "/infomineadmin/static/js/2.b219501a.chunk.js.LICENSE.txt",
     "static/media/infomine.jpg": "/infomineadmin/static/media/infomine.f9840099.jpg",
     "static/media/loading-arrow.gif": "/infomineadmin/static/media/loading-arrow.e9ea7394.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.40d7a19c.js",
-    "static/js/2.6750bde5.chunk.js",
+    "static/js/2.b219501a.chunk.js",
     "static/css/main.88a31b4f.chunk.css",
-    "static/js/main.339b0470.chunk.js"
+    "static/js/main.43ed9ba1.chunk.js"
   ]
 }
